@@ -1,0 +1,2 @@
+# TickIT
+(Pronounced ticket) Is helpdesk ticket web application built in C# ASP.NET MVC. Once deployed to a webserver, a user can register an account and create requests or incidents.Once a ticket is created, administrators will receive an email notifiaction and will be able to view new tickets, edit, close and resolve them. In addition, every use has their own profile page, where they can keep track of all the tickets they have opened, upload their own profile picture and change their password.
